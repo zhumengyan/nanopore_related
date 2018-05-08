@@ -9,6 +9,8 @@ nanopore sequencing
 ## Software
 1. Picopore: A tool for reducing the storage size of Oxford Nanopore Technologies datasets without loss of functionality [F1000Research 2017]
 
+2. Picky comprehensively detects high-resolution structural variants in nanopore long reads.  [Nature Methods 2018]
+
 ## Applications
 1. Nanopore sequencing detects structural variants in cancer [CANCER BIOLOGY & THERAPY 2016]
 
