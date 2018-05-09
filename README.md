@@ -21,3 +21,5 @@ nanopore sequencing
 2. Complete genomic and transcriptional landscape analysis using third-generation sequencing: a case study of Saccharomyces cerevisiae CEN.PK113-7D. [Nucleic Acids Res 2018]
 
 3. High contiguity Arabidopsis thaliana genome assembly with a single nanopore flow cell. [Nature Communications 2018]
+
+4. Accurate Typing of Human Leukocyte Antigen Class I Genes by Oxford Nanopore Sequencing [The Journal of Molecular Diagnostics 2018]
