@@ -12,12 +12,12 @@ High contiguity Arabidopsis thaliana genome assembly with a single nanopore flow
     Code snippets and further data were deposited at GitHub (https://github.com/fbemm/onefc-oneasm).
     
 ## Software
-    [miniasm - long read assembler](https://github.com/lh3/miniasm) v2.10 
+    [miniasm - long read assembler](https://github.com/lh3/miniasm) v0.2
     
-    [minimap - long read mapper](https://github.com/lh3/minimap) v0.2
-    0.2
+    [minimap - long read mapper](https://github.com/lh3/minimap) v2.10
+    
     [racon - long read consensus caller](https://github.com/isovic/racon) v1.2.1
-    1.2.1
+    
     [pilon - short read consensus caller](https://github.com/broadinstitute/pilon/wiki) v1.22
    
    
