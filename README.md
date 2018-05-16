@@ -4,16 +4,15 @@ nanopore sequencing
 ## Review
 1. Three decades of nanopore sequencing. [Nature Biotechnology 2016]
 2. Nanopore sequencing data analysis: state of the art, applications and challenges [Briefings in Bioinformatics 2017]
+3. highly parallel direct rnA sequencing on an array of nanopores [Nature Methods 2018]
 
 
 ## Software
 ### base calling
-
-
-
 1. Picopore: A tool for reducing the storage size of Oxford Nanopore Technologies datasets without loss of functionality [F1000Research 2017]
 
-2. Picky comprehensively detects high-resolution structural variants in nanopore long reads.  [Nature Methods 2018]
+### structural variants
+1. Picky comprehensively detects high-resolution structural variants in nanopore long reads.  [Nature Methods 2018]
 
 ## Applications
 1. Nanopore sequencing detects structural variants in cancer [CANCER BIOLOGY & THERAPY 2016]
